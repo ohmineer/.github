@@ -19,7 +19,8 @@ body:
 - type: textarea
   attributes:
     label: Describe the solution you would like
-    description: Detail your idea and any alternatives or features you have considered.
+    description: | 
+    Detail your idea and any alternatives or features you have considered.
     If you already know how your feature could be implemented, give us some guidance.
   validations:
     required: true
